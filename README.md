@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Meiyi!
 
-### **Aspiring Full-Stack Developer | Northcoders Bootcamp soon-to-be-Graduate**  
+### **A Full-Stack Developer | Northcoders Bootcamp soon-to-be-Graduate**  
 Passionate about building **clean, efficient, and user-focused** applications.  
 Currently sharpening my skills in **JavaScript, React, Node.js, and PostgreSQL** through hands-on projects.  
 
